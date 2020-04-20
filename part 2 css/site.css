@@ -1,0 +1,31 @@
+body{
+background-image: url(https://www.greatkosherrestaurants.com/kosher_images/uploads/slideshow/1366176595_venetian_slide_3.jpeg);
+background-size: 100%;
+
+}
+
+
+
+h2{
+    color: white;
+}
+
+img{
+    border-radius: 30px;
+    width: 25%;
+   
+
+}
+ol{
+    font-size: larger;
+    font-style: oblique;
+    color: white
+}
+h2{
+    text-align: center;
+    font-size: 250%;
+    font-style: oblique;
+}
+ul, form{
+    color: white;
+}
